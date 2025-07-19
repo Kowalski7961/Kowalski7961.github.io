@@ -13,7 +13,7 @@ Welcome to my personal blog for Capture The Flag (CTF) writeups, built using Git
 Each post is written in Markdown and formatted for easy readability, with syntax highlighting for code and shell commands.
 
 ## 🔗 Live Blog
-Visit: https://kowalski7961.github.io/sql-blog/  *(Update this with your actual repo name if different)*
+Visit: https://kowalski7961.github.io
 
 ## 🛠️ Tech Stack
 - GitHub Pages
